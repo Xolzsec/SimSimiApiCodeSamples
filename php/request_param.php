@@ -29,7 +29,7 @@ class requestParam
 			$this->text = null;
 			$this->lc =null;
 			$this->text = null;
-			$this->key = "d6bbfd1b-7cb3-4cfe-87b1-261e4d210d19";
+			$this->key = "c0f3128e-6859-40e6-8e69-1d8885ca0f93";
 	}
 	
 	/**
