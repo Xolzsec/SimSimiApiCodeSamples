@@ -37,7 +37,7 @@ var callback = function(req, res) {
 		var options = {
 			hostname : 'sandbox.api.simsimi.com',
 			port : 80,
-			path : '/request.p?key=d6bbfd1b-7cb3-4cfe-87b1-261e4d210d19&lc='+lc+'&ft=0.0&text='+text,
+			path : '/request.p?key=c0f3128e-6859-40e6-8e69-1d8885ca0f93&lc='+lc+'&ft=2.0&text='+text,
 			method : 'GET'
 		};
 
